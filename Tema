@@ -7,8 +7,9 @@ https://stackoverflow.com/questions/2190161/difference-between-java-lang-runtime
 
 
 Problema 1.
-Sa se creeze un program cu o clasa Main in care se va crea o metoda care citeste un text de la tastatura.
-Daca textul respectiv contine cuvinte precum ("pruna" sau "pupaza") se va arunca o exceptie. (Exceptia trebuie creata de voi).
+Sa se creeze un program cu o clasa Main in care se va crea o metoda care citeste cuvinte de la tastatura pana la introducerea unui anume cuvant.
+Daca cuvantul respectiv contine cuvinte precum ("pruna" sau "pupaza") se va arunca o exceptie. (Exceptia trebuie creata de voi).
+(Mai pe scurt simulam un mic programel in care prevenim cuvintele vulgare). :)
 
 Problema 2.
 Sa se creeze un program prin in care se creeaza o clasa Servicii ce va desemna anumite functii pentru gestiunea unor Persoane inr-un sistem.
